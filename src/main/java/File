@@ -1,0 +1,13 @@
+Feb 22 08:58:24 router1 snmpd[359]: https://en.wikipedia.org/wiki/Utility_softwareSNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm starthttps://en.wikipedia.org/wiki/Utility_software#System_utilities
+
+Feb 22 20:35:07 router1 snmpd[359]: https://www.w3schools.com/python/python_variables.asp
+
+SNMPD_THROTTLE_QUEUE_DRAINED: trap_throttle_timer_handler:https://www.w3schools.com/python/python_comments.asp
+
+cleared all throttled traps
+
+Feb 23 07:34:56 router1 snmpd[359]: SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+
+Feb 23 07:38:19 router1 snmpd[359]: SNMPD_TRAP_COLD_START: trap_generate_cold: SNMP trap: cold start
+
+dsfsd fsdfsdfds https://www.w3schools.com
